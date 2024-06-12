@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davyduty</h1>
 <h3 align="center">A passionate Both Front-End and Backend developer from Kenya</h3>
-<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
+<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davyduty&label=Profile%20views&color=0e75b6&style=flat" alt="davyduty" /> </p>
 
